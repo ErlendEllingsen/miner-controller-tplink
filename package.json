@@ -1,0 +1,16 @@
+{
+  "name": "miner-controller-tplink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.30.0",
+    "request": "^2.83.0",
+    "tplink-smarthome-api": "^0.22.0"
+  }
+}
